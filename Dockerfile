@@ -1,4 +1,5 @@
 #!/usr/bin/docker
+# stormsw/postgresql:v9.4
 FROM ubuntu:utopic
 MAINTAINER Alexander Varchenko <alexander.varchenko@gmail.com>
 ENV DEBIAN_FRONTEND noninteractive
